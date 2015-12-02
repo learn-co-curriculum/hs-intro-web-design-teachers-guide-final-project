@@ -27,3 +27,5 @@ Do you think Michelangelo just walked into the Sistine Chapel and started slappi
 ###Hints / Hurdles
 + Ideation is often the biggest challenge for students. They're typically not given a lot of time for creative work in school, or really open ended topics. Can be useful to have suggestions. Coax them to what they're personally interested in 
 + Decide if you want your students to work in groups, or alone. Do you chose the groups or let them?
+
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-final-project' data-visibility='hidden'>View this lesson on Learn.co</a>
